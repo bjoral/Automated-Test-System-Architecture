@@ -1,0 +1,1 @@
+This is a repository to house the software architecture diagram in vector graphics format of the software developed in Alexander Björklund's Master's thesis "Modular automated evaluation system for electrical safety and performance testing of a non-invasive glucose monitoring device".
